@@ -1,0 +1,6 @@
+D:\GeekBrains\Refactoring\Refactoring\bin\Debug\Refactoring.exe
+D:\GeekBrains\Refactoring\Refactoring\bin\Debug\Refactoring.pdb
+D:\GeekBrains\Refactoring\Refactoring\obj\Debug\Refactoring.csprojAssemblyReference.cache
+D:\GeekBrains\Refactoring\Refactoring\obj\Debug\Refactoring.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Refactoring\Refactoring\obj\Debug\Refactoring.exe
+D:\GeekBrains\Refactoring\Refactoring\obj\Debug\Refactoring.pdb
